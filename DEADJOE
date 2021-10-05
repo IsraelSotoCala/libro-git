@@ -1,0 +1,23 @@
+
+*** These modified files were found in JOE when it aborted on Tue Oct  5 14:15:31 2021
+*** JOE was aborted because the terminal closed
+
+*** File '/home/usuario/libro/.git/MERGE_MSG'
+Merge branch 'bibliografia'
+# Por favor ingrese un mensaje de commit que explique por qué es necesaria esta fusión,
+# especialmente si esto fusiona un upstream actualizado en una rama de tópico.
+#
+# Líneas comenzando con '#' serán ignoradas, y un mensaje vacío aborta
+#  el commit.
+
+
+
+*** File '(Unnamed)'
+/etc/apt/sources.list
+/home/usuario/libro/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
